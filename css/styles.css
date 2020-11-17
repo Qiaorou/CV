@@ -14,7 +14,7 @@ h1 {
 }
 
 h2 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 1.5rem;
   color: #7c7575;
   padding-bottom: 20px;
@@ -22,7 +22,7 @@ h2 {
 }
 
 h3 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Raleway', sans-serif;
   color: #b8b0b0;
   font-size: 1.2rem;
   font-weight: 500;
@@ -72,11 +72,12 @@ li {
 .navbar {
   top: 0;
   position: fixed;
-  width:100%;
+  width: 100%;
   z-index: 1;
   text-align: right;
   background-color: rgba(242,231,231, 0.8);
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-weight: normal;
   font-size: 1rem;
   justify-content: flex-end;
   padding: 15px 0;
@@ -127,7 +128,7 @@ li {
 .topcontainer {
   text-align: center;
   background-color: #FAF9F9;
-  padding: 150px 0 120px;
+  padding: 200px 0 130px;
   position: relative;
 }
 
@@ -189,10 +190,10 @@ li {
 }
 
 .email-icon {
-  width: 25px;
-  height: 20px;
+  width: 23px;
+  height: 18px;
   margin-bottom: 4px;
-  margin-left: 2px;
+  margin-left: 3px;
 }
 
 
