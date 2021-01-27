@@ -16,7 +16,7 @@ h1 {
 h2 {
   font-family: 'Raleway', sans-serif;
   font-size: 1.5rem;
-  color: #7c7575;
+  color: #635c5c;
   padding-bottom: 20px;
   padding-top: 50px;
 }
@@ -34,15 +34,15 @@ h4 {
   font-size: 1rem;
   font-weight: normal;
   margin-top: 0;
-  color: #7c7575;
+  color: #635c5c;
   line-height: 1;
 }
 
 h6 {
   font-family: 'Quicksand', sans-serif;
   font-size: 0.95rem;
-  font-weight: normal;
-  color: #7c7575;
+  font-weight: 500;
+  color: #635c5c;
   line-height: 1.5;
 }
 
@@ -76,7 +76,7 @@ li {
   z-index: 1;
   text-align: right;
   background-color: rgba(242,231,231, 0.8);
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Julius Sans One', sans-serif;
   font-weight: normal;
   font-size: 1rem;
   justify-content: flex-end;
@@ -260,7 +260,11 @@ li {
 }
 
 .workheading {
-  padding: 0 25%;
+  padding:0 25%;
+}
+
+.works{
+  padding: 0 10%;
 }
 
 .portfolio {
